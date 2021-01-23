@@ -1,0 +1,39 @@
+{
+  "post_verification_API": {
+    "Author 1": {
+      "Mail address": "undefined",
+      "Author Name": "Mix Studio",
+      "No. Of Post": "1",
+      "No. Of Comment": "null",
+      "verified": false,
+      "Admin": false,
+      "Warnings": false
+    },
+    "Author 2": {
+      "Mail Address": "undefined",
+      "Author Name": "",
+      "No. Of Post": "1",
+      "No. Of Comment": "null",
+      "verified": "3 - 1 = '2'",
+      "Admin": false,
+      "Warnings": false
+    },
+    "Author 3": {
+      "Author Name": "Peeyush Developer",
+      "No. Of Post": "null",
+      "No. Of Comment": "null",
+      "verified": false,
+      "Admin": false,
+      "Warnings": false
+    },
+    "Author 4": {
+      "Author Name": "Sketchware Geek",
+      "No. Of Post": "1",
+      "No. Of Comment": "1",
+      "verified post": "https://www.royalsoftwares.ml/How-to-send-notification-without-firebase",
+      "verified": "3-1=2",
+      "Admin": false,
+      "Warnings": false
+    }
+  }
+}
